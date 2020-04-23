@@ -1,6 +1,6 @@
 # Failing n-api detach arraybuffer test in 12
 
-Using Node.js 12.6.2
+Using Node.js 12.16.2
 
 ```
 git clone git://github.com/mafintosh/failing-napi-detach-with-finalise
