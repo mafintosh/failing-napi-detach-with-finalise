@@ -1,0 +1,16 @@
+{
+  "name": "failing-napi-detach-with-finalise",
+  "version": "1.0.0",
+  "description": "Failing n-api detach arraybuffer test in 12",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mafintosh/failing-napi-detach-with-finalise.git"
+  },
+  "author": "Mathias Buus (@mafintosh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mafintosh/failing-napi-detach-with-finalise/issues"
+  },
+  "homepage": "https://github.com/mafintosh/failing-napi-detach-with-finalise"
+}
